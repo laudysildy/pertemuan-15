@@ -18,7 +18,7 @@ function AutoLayoutExample() {
         </Row>
         <Col>
           <Card style={{ width: '100%' }}>
-            <Card.Img variant="top" src="/card1.jpg" style={{ objectFit: 'cover', height: '300px' }} />
+            <Card.Img variant="top" src="/Card1.jpg" style={{ objectFit: 'cover', height: '300px' }} />
             <Card.Body>
               <Card.Title>Card Title</Card.Title>
               <Card.Text>
@@ -31,7 +31,7 @@ function AutoLayoutExample() {
         </Col>
         <Col>
           <Card style={{ width: '100%' }}>
-            <Card.Img variant="top" src="/card2.jpg" style={{ objectFit: 'cover', height: '300px' }} />
+            <Card.Img variant="top" src="/Card2.jpg" style={{ objectFit: 'cover', height: '300px' }} />
             <Card.Body>
               <Card.Title>Card Title</Card.Title>
               <Card.Text>
@@ -44,7 +44,7 @@ function AutoLayoutExample() {
         </Col>
         <Col>
           <Card style={{ width: '100%' }}>
-            <Card.Img variant="top" src="/card3.jpg" style={{ objectFit: 'cover', height: '300px' }} />
+            <Card.Img variant="top" src="/Card3.jpg" style={{ objectFit: 'cover', height: '300px' }} />
             <Card.Body>
               <Card.Title>Card Title</Card.Title>
               <Card.Text>
