@@ -1,0 +1,8 @@
+-- CreateTable
+CREATE TABLE "Item" (
+    "id" INTEGER NOT NULL PRIMARY KEY AUTOINCREMENT,
+    "nama" TEXT NOT NULL,
+    "kategori" TEXT NOT NULL,
+    "harga" INTEGER NOT NULL,
+    "createdAt" DATETIME NOT NULL DEFAULT CURRENT_TIMESTAMP
+);
