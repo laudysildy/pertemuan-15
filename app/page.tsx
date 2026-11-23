@@ -24,10 +24,11 @@ export default function Home() {
           </Col>
           <Col md={6}>
             <Image
-              src="/aboutus.jpg"
+              src="/about.jpg"
               alt="About Us"
               width={500}
               height={500}
+              fluid
             />
           </Col>
         </Row>
